@@ -1,5 +1,5 @@
 # EX-5.Metasploit-for-reconnaissance
-## Date:30/03/2024
+## Date:7/10/24
 Metasploit for reconnaissance in pentesting
 
 # AIM:
